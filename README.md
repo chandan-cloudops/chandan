@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm CHANDAN KUMAR</h1>
 <h3 align="center">A Highly Skilled DevOps & Cloud Engineer with a Strong Background in Automation, CI/CD, and Cloud Infrastructure</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chandan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandan-cloudops&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-cloudops" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chandan-kumar" alt="chandan-kumar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chandan-cloudops" alt="chandan-cloudops" />
   </a>
 </p>
 
-- 🌟 Experienced in **Cloud Platforms (AWS, GCP)**, **Kubernetes**, and **CI/CD Pipelines**.
-- 📈 Skilled in automating infrastructure with **Terraform, Ansible**, and **Docker** for optimized deployment cycles.
-- 🚀 Successfully managed multi-cloud environments, ensuring high availability, scalability, and security.
-- 🌱 I’m currently exploring **Advanced Containerization Techniques** and **Microservices Architectures**.
-- 📫 How to reach me: **chandan.kumar.devops@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🌟 Experienced in **Cloud Platforms (AWS, GCP)**, **Kubernetes**, and **CI/CD Pipelines**.  
+- 📈 Skilled in automating infrastructure with **Terraform, Ansible**, and **Docker** for optimized deployment cycles.  
+- 🚀 Successfully managed multi-cloud environments, ensuring high availability, scalability, and security.  
+- 🌱 I’m currently exploring **Advanced Containerization Techniques** and **Microservices Architectures**.  
+- 📫 How to reach me: **chandan.kumar.devops@gmail.com**  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/chandan-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-kumar-0769ab21b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/chandan.devops/" target="_blank">
@@ -30,8 +34,11 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50" />  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -61,12 +68,20 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-kumar&show_icons=true&locale=en&layout=compact" alt="chandan-kumar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-kumar&show_icons=true&locale=en" alt="chandan-kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-cloudops&show_icons=true&locale=en&layout=compact" alt="chandan-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-cloudops&show_icons=true&locale=en" alt="chandan-kumar" /></p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+
+---
 
 <h3 align="left">Current Focus & Learning:</h3>
-- Mastering **Security Best Practices** in DevOps (DevSecOps)
-- Exploring **Service Meshes** (Istio, Linkerd) for microservices management
-- Experimenting with **Serverless Architectures** and cloud-native development
+- 🔒 Mastering **Security Best Practices** in DevOps (DevSecOps)  
+- 🔗 Exploring **Service Meshes** (Istio, Linkerd) for microservices management  
+- ☁️ Experimenting with **Serverless Architectures** and cloud-native development  
+
+---
 
